@@ -1,4 +1,23 @@
+# USF Athletics Review Classification
 
+## Overview
+
+The USF Athletics Review Classification project aims to analyze customer feedback collected from various channels and categorize it into specific segments. The primary objective is to help USF Athletics departments better understand customer sentiments and improve their services based on the feedback received.
+
+## Table of Contents
+
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Getting Started](#getting-started)
+- [Usage](#usage)
+- [Model Evaluation](#model-evaluation)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Features
+
+- Classifies reviews into categories such as:
+  - Concessions
   - Ticketing
   - Fan Services
   - Parking
@@ -14,3 +33,4 @@
 - TfidfVectorizer
 - Logistic Regression
 - Jupyter Notebook (for analysis and visualization)
+
